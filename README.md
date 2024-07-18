@@ -13,5 +13,5 @@ Then start the app
 ```bash
 npm run ios
 # or
-yarn run android
+npm run android
 ```
